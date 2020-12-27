@@ -1,4 +1,4 @@
-# competencemanagement
+# Competency Management System - based on People Analytics
 Competency management system developed with people analytics
 This is de code developed during my MBA in Data Science at USP. 
 Abstract:
